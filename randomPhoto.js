@@ -3,7 +3,7 @@ window.onload = randPhoto;
 //var photos = new Array("images/alex.jpg","images/alex2.jpg","images/alex3.jpg");
 //var photos = new Array("images/alex2.jpg","images/alex3.jpg","images/alex4.jpg","images/alexLine.jpg");
 //var photos = new Array("images/alex2.jpg","images/alexLine.jpg");
-var photos = new Array("images/alex2.jpg","images/alex4.jpg","images/alexLine.jpg");
+//var photos = new Array("images/alex2.jpg","images/alex4.jpg","images/alexLine.jpg");
 var photos = new Array("images/alex2.jpg","images/alex4.jpg","images/alex5.jpg","images/alexLine.jpg");
 
 function randPhoto() {
