@@ -8,8 +8,8 @@ window.onload = randPhoto;
 //var photos = new Array("images/alex2.jpg","images/alex6.jpg","images/alexLine.jpg");
 //var photos = new Array("images/alex2.jpg","images/alex7.jpg","images/alexLine.jpg");
 //var photos = new Array("images/alex2.jpg","images/alex8.jpg","images/alexLine.jpg");
-var photos = new Array("images/alex8.jpg","images/alex9.jpg","images/alexLine.jpg");
-var photos = new Array("images/alex8.jpg","images/alex9.jpg","images/alex10.jpg","images/alexLine.jpg");
+//var photos = new Array("images/alex8.jpg","images/alex9.jpg","images/alexLine.jpg");
+var photos = new Array("images/alex8.jpg","images/alex9.jpg","images/alex11.jpg","images/alexLine.jpg");
 
 function randPhoto() {
 		var randNum = Math.floor((Math.random() * photos.length));
