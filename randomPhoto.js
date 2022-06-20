@@ -13,7 +13,7 @@ window.onload = randPhoto;
 // var photos = new Array("images/alex12.jpg","images/alexLine.jpg");
 //var photos = new Array("images/alex13.jpg","images/alexLine.jpg");
 // var photos = new Array("images/alex14.jpg","images/alexLine.jpg");
-var photos = new Array("images/alex15.jpg","images/alexLine.jpg");
+var photos = new Array("images/Alex15.jpg","images/alexLine.jpg");
 
 function randPhoto() {
 		var randNum = Math.floor((Math.random() * photos.length));
